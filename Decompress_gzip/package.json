@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gunzip-file": "^0.1.1"
+  }
+}
